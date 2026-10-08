@@ -3,8 +3,8 @@
 
 ## 1. Скачай два файла
 
-- **[Приложение ChatGPT](https://persistent.oaistatic.com/codex-app-prod/ChatGPT-x64.msix)** — для компьютеров с Intel или AMD.
-- **[Файл лицензии](https://persistent.oaistatic.com/codex-app-prod/ChatGPT-License.xml)** — тоже нужен для установки.
+- **[Приложение ChatGPT](https://persistent.oaistatic.com/codex-app-prod/ChatGPT-x64.msix)** - для компьютеров с Intel или AMD.
+- **[Файл лицензии](https://persistent.oaistatic.com/codex-app-prod/ChatGPT-License.xml)** - тоже нужен для установки.
 
 На компьютере со Snapdragon вместо первого файла скачай **[версию ARM64](https://persistent.oaistatic.com/codex-app-prod/ChatGPT-arm64.msix)**.
 
